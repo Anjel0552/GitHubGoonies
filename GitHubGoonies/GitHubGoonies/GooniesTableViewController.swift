@@ -74,6 +74,16 @@ class GooniesTableViewController: UITableViewController {
         
         return cell
     }
+    
+    
+ 
+        
+        
+        
+    
+    
+    
+    }
     // simple detail
     
     //username
@@ -136,4 +146,4 @@ class GooniesTableViewController: UITableViewController {
     }
     */
     
-}
+

@@ -7,9 +7,11 @@
 //
 
 import Foundation
+
+
 //Normal
 // new class file -> GoonieDetailViewController
-// layout the detail view controller to display a;; the simple and full detail info
+// layout the detail view controller to display all the simple and full detail info
 //add a plus button to the top right of the navigationbar on the Goonie view 
 
 
